@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Caribou","category":"Violet"},
+{"id":2,"name":"Bent-toed gecko","category":"Red"},
+{"id":3,"name":"Striped skunk","category":"Crimson"},
+{"id":4,"name":"Dove, mourning collared","category":"Teal"},
+{"id":5,"name":"Western lowland gorilla","category":"Orange"},
+{"id":6,"name":"African red-eyed bulbul","category":"Puce"},
+{"id":7,"name":"Squirrel, african bush","category":"Turquoise"},
+{"id":8,"name":"Wombat, southern hairy-nosed","category":"Indigo"},
+{"id":9,"name":"Flicker, field","category":"Yellow"},
+{"id":10,"name":"Two-banded monitor","category":"Teal"},
+{"id":11,"name":"Radiated tortoise","category":"Blue"},
+{"id":12,"name":"Deer, red","category":"Goldenrod"},
+{"id":13,"name":"Black vulture","category":"Red"},
+{"id":14,"name":"Southern ground hornbill","category":"Mauv"},
+{"id":15,"name":"Seal, northern fur","category":"Violet"},
+{"id":16,"name":"Giant armadillo","category":"Khaki"},
+{"id":17,"name":"Eurasian badger","category":"Violet"},
+{"id":18,"name":"Greater adjutant stork","category":"Orange"},
+{"id":19,"name":"Eagle, pallas's fish","category":"Yellow"},
+{"id":20,"name":"Turtle (unidentified)","category":"Maroon"}
+]
+}
